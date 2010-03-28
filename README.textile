@@ -1,0 +1,4 @@
+h1. FBOOK
+
+Application to demonstrate integration of Facebook and Rhodes using FBConnect.
+
